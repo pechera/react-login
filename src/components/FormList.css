@@ -1,0 +1,18 @@
+.list__wrapper {
+    margin-top: 20px;
+    padding: 0 50px 0;
+    margin-top: 20px;
+    margin: 50px auto;
+    width: 50%;
+    font-size: 1.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    border-radius: 10px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.315);
+
+} 
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    padding: 10px;
+}
